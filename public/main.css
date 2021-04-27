@@ -1,0 +1,14 @@
+@import url('https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css');
+
+button {
+    width: 200px;
+}
+
+span {
+    font-weight: bold;
+}
+
+input {
+    padding-left: 10px;
+}
+
